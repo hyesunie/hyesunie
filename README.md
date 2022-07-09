@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=50&color=000000&width=700&height=200&lines=Wellcome👋👋++++I'm+Hyesun&center=true&Center=true" width="90%"> </img> </p>
+
+
+
+
+
 
 <!--
 **hyesunie/hyesunie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
