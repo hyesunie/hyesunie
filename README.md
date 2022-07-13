@@ -1,9 +1,36 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=50&color=000000&width=700&height=200&lines=Wellcome!!++++I'm+Hyesun&center=true&Center=true" width="90%"> </img> </p>
 
+---
+<br />  
+
+### :newspaper: Article
+<br />  
+
+:bookmark: [리액트 개발을 늦게 시작한 이유](https://hyesunie.tistory.com/20)  
+
+:bookmark: [React Hook useState 직접 구현하기](https://hyesunie.tistory.com/21)
+
+:bookmark: [Excution Context](https://hyesunie.tistory.com/14)  
+
+:bookmark: [Scope, Closure, hoisting](https://hyesunie.tistory.com/19)
+
+:bookmark: [Prototype](https://hyesunie.tistory.com/18)
 
 
 
+<br />  
+
+
+<br />  
+
+<br />  
+
+### :rocket: 자랑하고 싶은 프로젝트
+
+<br />  
+
+:point_right: [STAR-TO](https://github.com/star-to)
 
 
 <!--
