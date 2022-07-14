@@ -11,7 +11,7 @@
 
 :bookmark: [React Hook useState 직접 구현하기](https://hyesunie.tistory.com/21)
 
-:bookmark: [Excution Context](https://hyesunie.tistory.com/14)  
+:bookmark: [Execution Context](https://hyesunie.tistory.com/14)  
 
 :bookmark: [Scope, Closure, hoisting](https://hyesunie.tistory.com/19)
 
