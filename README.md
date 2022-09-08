@@ -9,8 +9,8 @@
 ### :page_with_curl: Potpolio
 <br />  
 
+[다운받기](https://github.com/hyesunie/hyesunie/files/9524288/__Front-end_Developer.pdf)
 
-[다운받기](https://github.com/hyesunie/hyesunie/files/9493501/__Front-end_Developer_.1.pdf)
 <br />  
 
 
