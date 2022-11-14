@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=50&color=000000&width=700&height=200&lines=Wellcome!!++++I'm+Hyesun&center=true&Center=true" width="90%"> </img> </p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=50&color=000000&width=700&height=200&lines=Wellcome!!++++I'm+Hyesun&center=true&Center=true" width="60%"> </img> </p>
 
 
 ---
@@ -9,20 +9,35 @@
 ### :page_with_curl: Potpolio
 <br />   -->
 
-<!-- [다운받기](https://github.com/hyesunie/hyesunie/files/9524288/__Front-end_Developer.pdf) -->
+
+
+
+### :toolbox: Stack
+<br />  
+
+![picture](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) 
+![picture](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![picture](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
+<br />  
+![picture](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) 
+<br />  
+![picture](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) 
+
+
+<br />  
+
+<br />  
 
 <br />  
 
 
-<br />  
 
-<br />  
 
 
 ### :newspaper: Article
 <br />  
 
-:bookmark: [리액트 개발을 늦게 시작한 이유](https://hyesunie.tistory.com/20)  
+<!-- :bookmark: [리액트 개발을 늦게 시작한 이유](https://hyesunie.tistory.com/20)   -->
 
 :bookmark: [React Hook useState 직접 구현하기](https://hyesunie.tistory.com/21)
 
@@ -47,6 +62,18 @@
 
 :point_right: [STAR-TO](https://github.com/star-to)
 
+
+
+<br />  
+
+<br />  
+
+<br />  
+
+
+<!-- [다운받기](https://github.com/hyesunie/hyesunie/files/9524288/__Front-end_Developer.pdf) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesunie&show_icons=true&theme=buefy)
+<br />  
 
 <!--
 **hyesunie/hyesunie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
