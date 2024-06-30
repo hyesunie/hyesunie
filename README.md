@@ -71,10 +71,10 @@
 <br />  
 
 
-<!-- [다운받기](https://github.com/hyesunie/hyesunie/files/9524288/__Front-end_Developer.pdf) -->
+<!-- [다운받기](https://github.com/hyesunie/hyesunie/files/9524288/__Front-end_Developer.pdf) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesunie&show_icons=true&theme=buefy)
 <br />  
-
+-->
 <!--
 **hyesunie/hyesunie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
